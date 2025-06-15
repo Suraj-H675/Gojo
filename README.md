@@ -1,6 +1,6 @@
 --> 🧠 Gojo Chatbot
 
-A simple, fun command-line chatbot based on **Gojo Satoru** from *Jujutsu Kaisen*. 
+A simple, fun command-line chatbot based on *Gojo Satoru* from *Jujutsu Kaisen*. 
 
 --> 📌 Features
 
